@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
+| [1929-concatenation-of-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1929-concatenation-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -19,4 +20,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
+## Simulation
+|  |
+| ------- |
+| [1929-concatenation-of-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1929-concatenation-of-array) |
 <!---LeetCode Topics End-->

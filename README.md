@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -15,10 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
 ## Counting Sort

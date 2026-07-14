@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0633-sum-of-square-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum
 |  |
@@ -45,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->

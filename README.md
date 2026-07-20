@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
+| [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0633-sum-of-square-numbers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Prefix Sum

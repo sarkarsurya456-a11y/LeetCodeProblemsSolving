@@ -1,7 +1,8 @@
 class Solution {
 public:
     bool canConstruct(string ransomNote, string magazine) {
-        int freq[26] = {0};
+        // int temp = 5;
+        int freq[26];
         for (int i = 0; i < magazine.size(); i++) {
             freq[magazine[i] - 'a']++;
         }

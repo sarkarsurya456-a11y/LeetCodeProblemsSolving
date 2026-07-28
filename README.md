@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
+| [0242-valid-anagram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0242-valid-anagram) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0383-ransom-note) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0387-first-unique-character-in-a-string) |
 ## Queue

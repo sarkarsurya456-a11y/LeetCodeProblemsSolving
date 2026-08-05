@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1480-running-sum-of-1d-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1480-running-sum-of-1d-array) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1929-concatenation-of-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0796-rotate-string) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Greedy
 |  |
 | ------- |

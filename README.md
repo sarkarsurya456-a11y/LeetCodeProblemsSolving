@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1051-height-checker) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Simulation
 |  |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0796-rotate-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
+| [1704-determine-if-string-halves-are-alike](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Greedy
 |  |

@@ -9,7 +9,6 @@ public:
        for(int i =0;i<26;i++){
         if(count[i]>0){
             freq=count[i];
-            break ;
         }
        }
      for(int i = 0; i < 26; i++) {

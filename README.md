@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3110-score-of-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/3110-score-of-a-string) |
+| [3136-valid-word](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/3136-valid-word) |
 ## Greedy
 |  |
 | ------- |

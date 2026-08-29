@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0704-binary-search) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0389-find-the-difference) |
 ## Dynamic Programming
@@ -161,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->

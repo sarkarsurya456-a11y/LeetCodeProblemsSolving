@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

@@ -1,28 +1,30 @@
 class Solution {
-public:
-    bool pukuMathaMota(string s , int left,int right){
-        while(left<right){
-            if(s[left]!=s[right]){
+    bool toCheck(string& s, int left, int right,bool deleted) {
+
+        // Base case
+        if (left >= right) {
+            return true;
+        }
+
+        
+        if (s[left] != s[right]) {
+            if (deleted == true) {
                 return false;
             }
-            left++;
-            right--;
+            bool skipLeft = toCheck(s, left + 1, right,true);
+            bool skipRight = toCheck(s, left, right - 1,true);
+
+            if (skipLeft == true || skipRight == true) {
+                return true;
+            }
+            return false;
         }
-        return true;
+        
+        return toCheck(s, left + 1, right - 1,deleted);
     }
+
+public:
     bool validPalindrome(string s) {
-        int left = 0;
-        int right = s.size() - 1;
-        while (left < right) {
-            if(s[left]==s[right]){
-                left++;
-                right--;
-            }
-            // if we found mismatch
-            else{
-                return pukuMathaMota(s,left+1,right) || pukuMathaMota(s,left,right-1);
-            }
-        }
-        return true;
-    }
+         return toCheck(s, 0, s.size() - 1,false);
+          }
 };

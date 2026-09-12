@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0090-subsets-ii) |
+| [0189-rotate-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0392-is-subsequence) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0342-power-of-four) |

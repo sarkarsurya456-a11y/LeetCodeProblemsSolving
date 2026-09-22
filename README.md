@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0326-power-of-three) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0069-sqrtx) |
 | [0367-valid-perfect-square](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0367-valid-perfect-square) |
 | [0633-sum-of-square-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0704-binary-search) |
@@ -187,4 +189,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0090-subsets-ii) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->

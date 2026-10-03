@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0066-plus-one) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0075-sort-colors) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |

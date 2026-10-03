@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0238-product-of-array-except-self) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0704-binary-search](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0389-find-the-difference) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0771-jewels-and-stones](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0771-jewels-and-stones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1832-check-if-the-sentence-is-pangram) |

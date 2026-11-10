@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0031-next-permutation) |
 | [0046-permutations](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0046-permutations) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0001-two-sum) |
 | [0242-valid-anagram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0387-first-unique-character-in-a-string) |

@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0704-binary-search) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
 | [1920-build-array-from-permutation](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0020-valid-parentheses) |
+| [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
 ## Bracket Sequences
 |  |
 | ------- |

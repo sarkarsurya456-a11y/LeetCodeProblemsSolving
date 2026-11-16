@@ -27,7 +27,9 @@ public:
 
         int Totalsum = 0;
 
-        while (!s.empty()) {
+        int n = s.size();
+
+        for (int i = 0; i < n; i++) {
             Totalsum += s.top();
             s.pop();
         }

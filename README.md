@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0633-sum-of-square-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0633-sum-of-square-numbers) |
 | [0680-valid-palindrome-ii](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0680-valid-palindrome-ii) |
+| [0844-backspace-string-compare](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0844-backspace-string-compare) |
 | [0905-sort-array-by-parity](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0412-fizz-buzz](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0412-fizz-buzz) |
 | [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0844-backspace-string-compare) |
 | [1920-build-array-from-permutation](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1929-concatenation-of-array) |
 ## Math
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0771-jewels-and-stones) |
 | [0796-rotate-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -233,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0020-valid-parentheses) |
 | [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
+| [0844-backspace-string-compare](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |

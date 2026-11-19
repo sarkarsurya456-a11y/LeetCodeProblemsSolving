@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0238-product-of-array-except-self) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0704-binary-search) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0496-next-greater-element-i) |
 | [0771-jewels-and-stones](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0771-jewels-and-stones) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0020-valid-parentheses) |
+| [0496-next-greater-element-i](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0844-backspace-string-compare) |
 | [1021-remove-outermost-parentheses](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1021-remove-outermost-parentheses) |
@@ -245,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/1021-remove-outermost-parentheses) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/sarkarsurya456-a11y/LeetCodeProblemsSolving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
